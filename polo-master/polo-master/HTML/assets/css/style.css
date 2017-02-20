@@ -436,12 +436,12 @@ a:hover {
 }
 
 .gallery-nav {
-	color: #9C1737;
+	color: #FCFFFA;
 	font-size: 2em;
 	margin: 0 1em;
 	padding: 10px 19px;
 	line-height: 0;
-	border: 1px solid #9C1737;
+	border: 1px solid #F5FDFF;
 	border-radius: 50%;
 }
 
